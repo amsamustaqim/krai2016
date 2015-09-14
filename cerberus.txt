@@ -1,2 +1,6 @@
 makannya apa? tempe
+<<<<<<< HEAD
 tahu aja biar enak
+=======
+tahu aja
+>>>>>>> 064f321bbda176657d3bac955b9ce6a409d11fe2
